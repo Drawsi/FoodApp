@@ -3,7 +3,6 @@
                 $ingredients = [
                     "Salt", "Sugar", "Flour", "Butter", "Eggs", "Milk", "Olive Oil", "Garlic", "Onion", "Tomato", 
                     "Pepper", "Chicken", "Beef", "Pork", "Fish", "Rice", "Pasta", "Potato", "Cheese", "Lemon",
-                    // (add more ingredients here to reach 200)
                     "Vanilla", "Cinnamon", "Basil", "Parsley", "Rosemary", "Thyme", "Oregano", "Paprika", "Chili Powder", "Cumin",
                     "Honey", "Vinegar", "Soy Sauce", "Mustard", "Ketchup", "Mayonnaise", "Yogurt", "Cream", "Baking Powder", "Baking Soda",
                     "Cornstarch", "Breadcrumbs", "Chocolate", "Cocoa Powder", "Almonds", "Walnuts", "Peanuts", "Coconut", "Raisins", "Oats",
